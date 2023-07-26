@@ -1,0 +1,3 @@
+com.minatodattebayo.gittestapp.config.ApplicationRepositoriesAutoConfiguration
+com.minatodattebayo.gittestapp.config.ApplicationTransactionManagersAutoConfig
+com.minatodattebayo.gittestapp.config.ApplicationProvidersAutoConfiguration
